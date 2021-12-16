@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border:0px;
+}
+body{
+    box-sizing: border-box;
+    /* background-color: #FFF; */
+    background-color: #CCCCCC;
+}
+.body-scroll{
+    position:absolute;
+    top: 50px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    padding: 0px 10px;
+    box-sizing: border-box;
+    background: none;
+}
